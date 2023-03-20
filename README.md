@@ -1,6 +1,6 @@
 # Hi, I'm Umut Tosun 👋
 
-### I'm a Student and Developer ! 
+### I'm a Student and .Net & Angular Developer ! 
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ I want to specialize in .net and .net core
